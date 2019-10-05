@@ -78,10 +78,10 @@ WSGI_APPLICATION = 'thaosite.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'chatbox',
-        'USER': 'root',
-        'PASSWORD': 'Vuthao1998',
-        'HOST': 'localhost',
+        'NAME': 'sou46vwkdlamxzpx',
+        'USER': 'qy3gucyle5ayugr4',
+        'PASSWORD': 'sw8fltwtc0ly5xcc ',
+        'HOST': ' 	i943okdfa47xqzpy.cbetxkdyhwsb.us-east-1.rds.amazonaws.com',
         'PORT': '3306',
     }
 }
